@@ -1,0 +1,7 @@
+node_modules
+dist
+package-lock.json
+backend/data/raw
+backend/data/processed
+frontend/node_modules
+backend/node_modules

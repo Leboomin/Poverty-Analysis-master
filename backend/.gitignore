@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+*.tsbuildinfo
+.eslintcache
+.cache/
+.railway/
+.env*
+!.env.example
+data/database/*
+!data/database/.gitkeep

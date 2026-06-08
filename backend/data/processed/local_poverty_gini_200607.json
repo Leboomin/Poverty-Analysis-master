@@ -1,0 +1,1017 @@
+[
+  {
+    "area": "Quatre Bornes Ward 2",
+    "rank": 1,
+    "povertyRate": 2,
+    "gini": 0.322,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Quatre Bornes Ward 1",
+    "rank": 2,
+    "povertyRate": 2.6,
+    "gini": 0.312,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Beau Bassin-Rose Hill Ward 4",
+    "rank": 3,
+    "povertyRate": 2.6,
+    "gini": 0.315,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Vacoas-Phoenix Ward 3",
+    "rank": 4,
+    "povertyRate": 2.7,
+    "gini": 0.3,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Amitié",
+    "rank": 5,
+    "povertyRate": 3.1,
+    "gini": 0.242,
+    "district": "Flacq"
+  },
+  {
+    "area": "Flic en Flac",
+    "rank": 6,
+    "povertyRate": 3.2,
+    "gini": 0.313,
+    "district": "Black River"
+  },
+  {
+    "area": "Curepipe Ward 2",
+    "rank": 7,
+    "povertyRate": 3.3,
+    "gini": 0.315,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Curepipe Ward 3",
+    "rank": 8,
+    "povertyRate": 3.5,
+    "gini": 0.302,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Beau Bassin-Rose Hill Ward 2",
+    "rank": 9,
+    "povertyRate": 3.8,
+    "gini": 0.318,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Poudre d'Or Hamlet",
+    "rank": 10,
+    "povertyRate": 4,
+    "gini": 0.259,
+    "district": "Riviere du Rempart"
+  },
+  {
+    "area": "Camp Thorel",
+    "rank": 11,
+    "povertyRate": 4,
+    "gini": 0.259,
+    "district": "Moka"
+  },
+  {
+    "area": "Beau Bassin-Rose Hill Ward 3",
+    "rank": 12,
+    "povertyRate": 4.1,
+    "gini": 0.36,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Vacoas-Phoenix Ward 2",
+    "rank": 13,
+    "povertyRate": 4.2,
+    "gini": 0.296,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Vacoas-Phoenix Ward 4",
+    "rank": 14,
+    "povertyRate": 4.2,
+    "gini": 0.293,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Curepipe Ward 1",
+    "rank": 15,
+    "povertyRate": 4.3,
+    "gini": 0.309,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Moka",
+    "rank": 16,
+    "povertyRate": 4.4,
+    "gini": 0.294,
+    "district": "Moka"
+  },
+  {
+    "area": "Piton",
+    "rank": 17,
+    "povertyRate": 4.6,
+    "gini": 0.264,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Vacoas-Phoenix Ward 1",
+    "rank": 18,
+    "povertyRate": 4.7,
+    "gini": 0.287,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "L'Avenir",
+    "rank": 19,
+    "povertyRate": 4.9,
+    "gini": 0.276,
+    "district": "Moka"
+  },
+  {
+    "area": "Quatre Bornes Ward 3",
+    "rank": 20,
+    "povertyRate": 4.9,
+    "gini": 0.284,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Union Park",
+    "rank": 21,
+    "povertyRate": 5.1,
+    "gini": 0.267,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Belle Vue Maurel",
+    "rank": 22,
+    "povertyRate": 5.2,
+    "gini": 0.252,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Cottage",
+    "rank": 23,
+    "povertyRate": 5.6,
+    "gini": 0.241,
+    "district": "Riviere du Rempart"
+  },
+  {
+    "area": "Bananes",
+    "rank": 24,
+    "povertyRate": 5.7,
+    "gini": 0.231,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Roche Terre Village Council Area",
+    "rank": 25,
+    "povertyRate": 5.8,
+    "gini": 0.254,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Dagotière Village Council Area",
+    "rank": 26,
+    "povertyRate": 5.8,
+    "gini": 0.258,
+    "district": "Moka"
+  },
+  {
+    "area": "Espérance Trébuchet Village Council Area",
+    "rank": 27,
+    "povertyRate": 5.9,
+    "gini": 0.268,
+    "district": "Moka"
+  },
+  {
+    "area": "Petit Raffray Village Council Area",
+    "rank": 28,
+    "povertyRate": 6,
+    "gini": 0.259,
+    "district": "Riviere du Rempart"
+  },
+  {
+    "area": "New Grove Village Council Area",
+    "rank": 29,
+    "povertyRate": 6,
+    "gini": 0.273,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Saint Pierre Village Council Area",
+    "rank": 30,
+    "povertyRate": 6,
+    "gini": 0.277,
+    "district": "Moka"
+  },
+  {
+    "area": "Camp Ithier Village Council Area",
+    "rank": 31,
+    "povertyRate": 6.1,
+    "gini": 0.265,
+    "district": "Moka"
+  },
+  {
+    "area": "Town of Beau Bassin-Rose Hill - Ward 1",
+    "rank": 32,
+    "povertyRate": 6.1,
+    "gini": 0.28,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Médine Camp de Masque Village Council Area",
+    "rank": 33,
+    "povertyRate": 6.2,
+    "gini": 0.263,
+    "district": "Flacq"
+  },
+  {
+    "area": "Midlands Village Council Area",
+    "rank": 34,
+    "povertyRate": 6.3,
+    "gini": 0.278,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Long Mountain Village Council Area",
+    "rank": 35,
+    "povertyRate": 6.3,
+    "gini": 0.289,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Grand Gaube Village Council Area",
+    "rank": 36,
+    "povertyRate": 6.3,
+    "gini": 0.269,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Souillac Village Council Area",
+    "rank": 37,
+    "povertyRate": 6.4,
+    "gini": 0.255,
+    "district": "Savanne"
+  },
+  {
+    "area": "Ripailles Village Council Area",
+    "rank": 38,
+    "povertyRate": 6.5,
+    "gini": 0.274,
+    "district": "Moka"
+  },
+  {
+    "area": "Rivière des Anguilles Village Council Area",
+    "rank": 39,
+    "povertyRate": 6.5,
+    "gini": 0.251,
+    "district": "Savanne"
+  },
+  {
+    "area": "Triolet Village Council Area",
+    "rank": 40,
+    "povertyRate": 6.6,
+    "gini": 0.275,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Rivière du Rempart Village Council Area",
+    "rank": 41,
+    "povertyRate": 6.6,
+    "gini": 0.26,
+    "district": "Riviere du Rempart"
+  },
+  {
+    "area": "Plaines des Roches Village Council Area",
+    "rank": 42,
+    "povertyRate": 6.7,
+    "gini": 0.253,
+    "district": "Riviere du Rempart"
+  },
+  {
+    "area": "Goodlands Village Council Area",
+    "rank": 43,
+    "povertyRate": 6.7,
+    "gini": 0.26,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Grand Baie Village Council Area",
+    "rank": 44,
+    "povertyRate": 6.7,
+    "gini": 0.315,
+    "district": "Riviere du Rempart"
+  },
+  {
+    "area": "Saint Julien d'Hotman Village Council Area",
+    "rank": 45,
+    "povertyRate": 6.9,
+    "gini": 0.264,
+    "district": "Moka"
+  },
+  {
+    "area": "Espérance Village Council Area",
+    "rank": 46,
+    "povertyRate": 6.9,
+    "gini": 0.257,
+    "district": "Moka"
+  },
+  {
+    "area": "Town of Port Louis - Ward 1",
+    "rank": 47,
+    "povertyRate": 7,
+    "gini": 0.267,
+    "district": "Port Louis"
+  },
+  {
+    "area": "Morcellement Saint André Village Council Area",
+    "rank": 48,
+    "povertyRate": 7.2,
+    "gini": 0.278,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Verdun Village Council Area",
+    "rank": 49,
+    "povertyRate": 7.2,
+    "gini": 0.273,
+    "district": "Moka"
+  },
+  {
+    "area": "La Gaulette Village Council Area",
+    "rank": 50,
+    "povertyRate": 7.2,
+    "gini": 0.245,
+    "district": "Black River"
+  },
+  {
+    "area": "Fond du Sac Village Council Area",
+    "rank": 51,
+    "povertyRate": 7.5,
+    "gini": 0.268,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Melrose Village Council Area",
+    "rank": 52,
+    "povertyRate": 7.6,
+    "gini": 0.247,
+    "district": "Moka"
+  },
+  {
+    "area": "Mahébourg Village Council Area",
+    "rank": 53,
+    "povertyRate": 7.6,
+    "gini": 0.283,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Crève Cœur Village Council Area",
+    "rank": 54,
+    "povertyRate": 7.6,
+    "gini": 0.281,
+    "district": "Moka"
+  },
+  {
+    "area": "Rose Belle Village Council Area",
+    "rank": 55,
+    "povertyRate": 7.6,
+    "gini": 0.278,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Bon Accueil Village Council Area",
+    "rank": 56,
+    "povertyRate": 7.6,
+    "gini": 0.267,
+    "district": "Flacq"
+  },
+  {
+    "area": "Baie du Tombeau Village Council Area",
+    "rank": 57,
+    "povertyRate": 7.7,
+    "gini": 0.331,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Saint Aubin Village Council Area",
+    "rank": 58,
+    "povertyRate": 7.7,
+    "gini": 0.236,
+    "district": "Savanne"
+  },
+  {
+    "area": "Amaury Village Council Area",
+    "rank": 59,
+    "povertyRate": 7.8,
+    "gini": 0.244,
+    "district": "Riviere du Rempart"
+  },
+  {
+    "area": "Town of Port Louis – Ward 4",
+    "rank": 60,
+    "povertyRate": 7.8,
+    "gini": 0.28,
+    "district": "Port Louis"
+  },
+  {
+    "area": "Central Flacq Village Council Area",
+    "rank": 61,
+    "povertyRate": 7.8,
+    "gini": 0.282,
+    "district": "Flacq"
+  },
+  {
+    "area": "Villebague Village Council Area",
+    "rank": 62,
+    "povertyRate": 7.9,
+    "gini": 0.264,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Tamarin Village Council Area",
+    "rank": 63,
+    "povertyRate": 8.1,
+    "gini": 0.36,
+    "district": "Black River"
+  },
+  {
+    "area": "Calebasses Village Council Area",
+    "rank": 64,
+    "povertyRate": 8.1,
+    "gini": 0.282,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Mare d'Albert Village Council Area",
+    "rank": 65,
+    "povertyRate": 8.2,
+    "gini": 0.26,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Chamouny Village Council Area",
+    "rank": 66,
+    "povertyRate": 8.2,
+    "gini": 0.247,
+    "district": "Savanne"
+  },
+  {
+    "area": "Plaine des Papayes Village Council Area",
+    "rank": 67,
+    "povertyRate": 8.2,
+    "gini": 0.268,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Saint Julien (Haut de Flacq) Village Council Area",
+    "rank": 68,
+    "povertyRate": 8.5,
+    "gini": 0.257,
+    "district": "Flacq"
+  },
+  {
+    "area": "Ecroignard Village Council Area",
+    "rank": 69,
+    "povertyRate": 8.6,
+    "gini": 0.268,
+    "district": "Flacq"
+  },
+  {
+    "area": "Nouvelle France Village Council Area",
+    "rank": 70,
+    "povertyRate": 8.7,
+    "gini": 0.267,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Lalmatie Village Council Area",
+    "rank": 71,
+    "povertyRate": 8.9,
+    "gini": 0.281,
+    "district": "Flacq"
+  },
+  {
+    "area": "The Vale Village Council Area",
+    "rank": 72,
+    "povertyRate": 8.9,
+    "gini": 0.238,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Britannia Village Council Area",
+    "rank": 73,
+    "povertyRate": 8.9,
+    "gini": 0.231,
+    "district": "Savanne"
+  },
+  {
+    "area": "Camp Diable Village Council Area",
+    "rank": 74,
+    "povertyRate": 9,
+    "gini": 0.255,
+    "district": "Savanne"
+  },
+  {
+    "area": "Queen Victoria Village Council Area",
+    "rank": 75,
+    "povertyRate": 9.1,
+    "gini": 0.252,
+    "district": "Flacq"
+  },
+  {
+    "area": "Montagne Blanche Village Council Area",
+    "rank": 76,
+    "povertyRate": 9.1,
+    "gini": 0.271,
+    "district": "Flacq"
+  },
+  {
+    "area": "Le Hochet Village Council Area",
+    "rank": 77,
+    "povertyRate": 9.3,
+    "gini": 0.289,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "D'Epinay Village Council Area",
+    "rank": 78,
+    "povertyRate": 9.3,
+    "gini": 0.267,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Laventure Village Council Area",
+    "rank": 79,
+    "povertyRate": 9.6,
+    "gini": 0.275,
+    "district": "Flacq"
+  },
+  {
+    "area": "Town of Port Louis – Ward 2",
+    "rank": 80,
+    "povertyRate": 9.6,
+    "gini": 0.301,
+    "district": "Port Louis"
+  },
+  {
+    "area": "Pamplemousses Village Council Area",
+    "rank": 81,
+    "povertyRate": 9.8,
+    "gini": 0.284,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Mare Tabac Village Council Area",
+    "rank": 82,
+    "povertyRate": 9.9,
+    "gini": 0.265,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Grand Bel Air Village Council Area",
+    "rank": 83,
+    "povertyRate": 9.9,
+    "gini": 0.245,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Chemin Grenier Village Council Area",
+    "rank": 84,
+    "povertyRate": 9.9,
+    "gini": 0.261,
+    "district": "Savanne"
+  },
+  {
+    "area": "Grande Rivière Noire Village Council Area",
+    "rank": 85,
+    "povertyRate": 10,
+    "gini": 0.303,
+    "district": "Black River"
+  },
+  {
+    "area": "Rivière du Poste Village Council Area",
+    "rank": 86,
+    "povertyRate": 10,
+    "gini": 0.245,
+    "district": "Savanne"
+  },
+  {
+    "area": "Roches Noires Village Council Area",
+    "rank": 87,
+    "povertyRate": 10,
+    "gini": 0.242,
+    "district": "Riviere du Rempart"
+  },
+  {
+    "area": "Cap Malheureux",
+    "rank": 88,
+    "povertyRate": 10,
+    "gini": 0.309,
+    "district": "Riviere du Rempart"
+  },
+  {
+    "area": "Albion",
+    "rank": 89,
+    "povertyRate": 10.3,
+    "gini": 0.379,
+    "district": "Plaines Wilhems"
+  },
+  {
+    "area": "Surinam",
+    "rank": 90,
+    "povertyRate": 10.3,
+    "gini": 0.264,
+    "district": "Savanne"
+  },
+  {
+    "area": "Richelieu",
+    "rank": 91,
+    "povertyRate": 10.3,
+    "gini": 0.22,
+    "district": "Black River"
+  },
+  {
+    "area": "Camp de Masque Pavé",
+    "rank": 92,
+    "povertyRate": 10.3,
+    "gini": 0.274,
+    "district": "Flacq"
+  },
+  {
+    "area": "Brisée Verdière",
+    "rank": 93,
+    "povertyRate": 10.4,
+    "gini": 0.277,
+    "district": "Flacq"
+  },
+  {
+    "area": "Poudre d'Or",
+    "rank": 94,
+    "povertyRate": 10.4,
+    "gini": 0.237,
+    "district": "Riviere du Rempart"
+  },
+  {
+    "area": "Pailles",
+    "rank": 95,
+    "povertyRate": 11,
+    "gini": 0.277,
+    "district": "Port Louis"
+  },
+  {
+    "area": "Bambous",
+    "rank": 96,
+    "povertyRate": 11,
+    "gini": 0.234,
+    "district": "Black River"
+  },
+  {
+    "area": "L'Escalier",
+    "rank": 97,
+    "povertyRate": 11.3,
+    "gini": 0.262,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Quartier Militaire",
+    "rank": 98,
+    "povertyRate": 11.3,
+    "gini": 0.284,
+    "district": "Moka"
+  },
+  {
+    "area": "Grand Bois",
+    "rank": 99,
+    "povertyRate": 11.3,
+    "gini": 0.248,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Case Noyale",
+    "rank": 100,
+    "povertyRate": 11.5,
+    "gini": 0.214,
+    "district": "Black River"
+  },
+  {
+    "area": "Plaine Magnien",
+    "rank": 101,
+    "povertyRate": 11.7,
+    "gini": 0.265,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Notre Dame",
+    "rank": 102,
+    "povertyRate": 11.7,
+    "gini": 0.275,
+    "district": "Moka"
+  },
+  {
+    "area": "Providence",
+    "rank": 103,
+    "povertyRate": 11.7,
+    "gini": 0.276,
+    "district": "Moka"
+  },
+  {
+    "area": "Petit Bel Air",
+    "rank": 104,
+    "povertyRate": 11.8,
+    "gini": 0.25,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Benarès",
+    "rank": 105,
+    "povertyRate": 11.8,
+    "gini": 0.239,
+    "district": "Savanne"
+  },
+  {
+    "area": "Congomah",
+    "rank": 106,
+    "povertyRate": 12,
+    "gini": 0.272,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Petite Rivière",
+    "rank": 107,
+    "povertyRate": 12,
+    "gini": 0.238,
+    "district": "Black River"
+  },
+  {
+    "area": "Cluny",
+    "rank": 108,
+    "povertyRate": 12.1,
+    "gini": 0.242,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Camp de Masque",
+    "rank": 109,
+    "povertyRate": 12.1,
+    "gini": 0.285,
+    "district": "Flacq"
+  },
+  {
+    "area": "Bois Chéri",
+    "rank": 110,
+    "povertyRate": 12.2,
+    "gini": 0.24,
+    "district": "Moka"
+  },
+  {
+    "area": "Port Louis - Ward 3",
+    "rank": 111,
+    "povertyRate": 12.3,
+    "gini": 0.309,
+    "district": "Port Louis"
+  },
+  {
+    "area": "Terre Rouge",
+    "rank": 112,
+    "povertyRate": 12.3,
+    "gini": 0.295,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "La Laura - Malenga",
+    "rank": 113,
+    "povertyRate": 12.6,
+    "gini": 0.272,
+    "district": "Moka"
+  },
+  {
+    "area": "Cascavelle",
+    "rank": 114,
+    "povertyRate": 12.6,
+    "gini": 0.232,
+    "district": "Black River"
+  },
+  {
+    "area": "Pointe aux Piments",
+    "rank": 115,
+    "povertyRate": 12.7,
+    "gini": 0.289,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Rivière des Créoles",
+    "rank": 116,
+    "povertyRate": 12.8,
+    "gini": 0.251,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Port Louis - Ward 6",
+    "rank": 117,
+    "povertyRate": 13,
+    "gini": 0.276,
+    "district": "Port Louis"
+  },
+  {
+    "area": "Trou d'Eau Douce",
+    "rank": 118,
+    "povertyRate": 13.2,
+    "gini": 0.26,
+    "district": "Flacq"
+  },
+  {
+    "area": "Grand River South East",
+    "rank": 119,
+    "povertyRate": 13.3,
+    "gini": 0.245,
+    "district": "Flacq"
+  },
+  {
+    "area": "Sébastopol",
+    "rank": 120,
+    "povertyRate": 13.3,
+    "gini": 0.261,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Mapou",
+    "rank": 121,
+    "povertyRate": 13.4,
+    "gini": 0.28,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Bel Air Rivière Sèche",
+    "rank": 122,
+    "povertyRate": 13.5,
+    "gini": 0.258,
+    "district": "Flacq"
+  },
+  {
+    "area": "Trois Boutiques",
+    "rank": 123,
+    "povertyRate": 13.6,
+    "gini": 0.263,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Beau Vallon",
+    "rank": 124,
+    "povertyRate": 13.7,
+    "gini": 0.312,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Port Louis Ward 5",
+    "rank": 125,
+    "povertyRate": 14.1,
+    "gini": 0.281,
+    "district": "Port Louis"
+  },
+  {
+    "area": "Old Grand Port",
+    "rank": 126,
+    "povertyRate": 14.3,
+    "gini": 0.257,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Baie du Cap",
+    "rank": 127,
+    "povertyRate": 14.5,
+    "gini": 0.252,
+    "district": "Savanne"
+  },
+  {
+    "area": "Olivia",
+    "rank": 128,
+    "povertyRate": 14.5,
+    "gini": 0.249,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Arsenal",
+    "rank": 129,
+    "povertyRate": 14.7,
+    "gini": 0.268,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Dubreuil",
+    "rank": 130,
+    "povertyRate": 15.4,
+    "gini": 0.243,
+    "district": "Moka"
+  },
+  {
+    "area": "Mare La Chaux",
+    "rank": 131,
+    "povertyRate": 15.6,
+    "gini": 0.288,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Chamarel",
+    "rank": 132,
+    "povertyRate": 15.8,
+    "gini": 0.236,
+    "district": "Black River"
+  },
+  {
+    "area": "Bel Ombre",
+    "rank": 133,
+    "povertyRate": 16.9,
+    "gini": 0.235,
+    "district": "Savanne"
+  },
+  {
+    "area": "Gros Caillou",
+    "rank": 134,
+    "povertyRate": 16.9,
+    "gini": 0.228,
+    "district": "Pamplemousses"
+  },
+  {
+    "area": "Poste de Flacq",
+    "rank": 135,
+    "povertyRate": 17.3,
+    "gini": 0.265,
+    "district": "Flacq"
+  },
+  {
+    "area": "Mare Chicose",
+    "rank": 136,
+    "povertyRate": 17.6,
+    "gini": 0.245,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Quatre Soeurs",
+    "rank": 137,
+    "povertyRate": 17.7,
+    "gini": 0.266,
+    "district": "Grand Port"
+  },
+  {
+    "area": "St. Hubert",
+    "rank": 138,
+    "povertyRate": 18,
+    "gini": 0.261,
+    "district": "Moka"
+  },
+  {
+    "area": "Quatre Cocos",
+    "rank": 139,
+    "povertyRate": 18.3,
+    "gini": 0.259,
+    "district": "Flacq"
+  },
+  {
+    "area": "Clémencia",
+    "rank": 140,
+    "povertyRate": 19.1,
+    "gini": 0.262,
+    "district": "Flacq"
+  },
+  {
+    "area": "Bois des Amourettes",
+    "rank": 141,
+    "povertyRate": 20.1,
+    "gini": 0.263,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Grand Sable",
+    "rank": 142,
+    "povertyRate": 21.1,
+    "gini": 0.259,
+    "district": "Flacq"
+  },
+  {
+    "area": "Le Morne",
+    "rank": 143,
+    "povertyRate": 24.4,
+    "gini": 0.275,
+    "district": "Black River"
+  },
+  {
+    "area": "Bambous Virieux",
+    "rank": 144,
+    "povertyRate": 25.2,
+    "gini": 0.241,
+    "district": "Grand Port"
+  },
+  {
+    "area": "Rodrigues Island",
+    "rank": 145,
+    "povertyRate": 32.4,
+    "gini": 0.354,
+    "district": "Rodrigues"
+  }
+]

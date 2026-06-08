@@ -1,0 +1,82 @@
+[
+  {
+    "district": "Rodrigues",
+    "areaCount": 1,
+    "averagePovertyRate": 32.4,
+    "averageGini": 0.354,
+    "minPovertyRate": 32.4,
+    "maxPovertyRate": 32.4
+  },
+  {
+    "district": "Grand Port",
+    "areaCount": 24,
+    "averagePovertyRate": 12.15,
+    "averageGini": 0.261,
+    "minPovertyRate": 5.1,
+    "maxPovertyRate": 25.2
+  },
+  {
+    "district": "Black River",
+    "areaCount": 11,
+    "averagePovertyRate": 11.46,
+    "averageGini": 0.261,
+    "minPovertyRate": 3.2,
+    "maxPovertyRate": 24.4
+  },
+  {
+    "district": "Flacq",
+    "areaCount": 20,
+    "averagePovertyRate": 11.36,
+    "averageGini": 0.265,
+    "minPovertyRate": 3.1,
+    "maxPovertyRate": 21.1
+  },
+  {
+    "district": "Port Louis",
+    "areaCount": 7,
+    "averagePovertyRate": 10.69,
+    "averageGini": 0.284,
+    "minPovertyRate": 7,
+    "maxPovertyRate": 14.1
+  },
+  {
+    "district": "Savanne",
+    "areaCount": 12,
+    "averagePovertyRate": 10.01,
+    "averageGini": 0.248,
+    "minPovertyRate": 6.4,
+    "maxPovertyRate": 16.9
+  },
+  {
+    "district": "Pamplemousses",
+    "areaCount": 24,
+    "averagePovertyRate": 9.21,
+    "averageGini": 0.272,
+    "minPovertyRate": 4.6,
+    "maxPovertyRate": 16.9
+  },
+  {
+    "district": "Moka",
+    "areaCount": 20,
+    "averagePovertyRate": 8.63,
+    "averageGini": 0.267,
+    "minPovertyRate": 4,
+    "maxPovertyRate": 18
+  },
+  {
+    "district": "Riviere du Rempart",
+    "areaCount": 10,
+    "averagePovertyRate": 7.38,
+    "averageGini": 0.262,
+    "minPovertyRate": 4,
+    "maxPovertyRate": 10.4
+  },
+  {
+    "district": "Plaines Wilhems",
+    "areaCount": 16,
+    "averagePovertyRate": 4.35,
+    "averageGini": 0.309,
+    "minPovertyRate": 2,
+    "maxPovertyRate": 10.3
+  }
+]

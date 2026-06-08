@@ -1,0 +1,67 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+Mauritius,MUS,2022,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,48.68591
+Mauritius,MUS,2020,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,51.93824
+Mauritius,MUS,2018,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,53.3709
+Mauritius,MUS,2016,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,56.84264
+Mauritius,MUS,2014,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,59.52948
+Mauritius,MUS,2012,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,62.16985
+Mauritius,MUS,2010,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,64.81973
+Mauritius,MUS,2008,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,67.40634
+Mauritius,MUS,2006,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,69.89404
+Mauritius,MUS,2004,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,72.35662
+Mauritius,MUS,2002,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,74.76156
+Mauritius,MUS,2000,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,76.73784
+Mauritius,MUS,2017,Income share held by second 20%,SI.DST.02ND.20,11.6
+Mauritius,MUS,2012,Income share held by second 20%,SI.DST.02ND.20,11.2
+Mauritius,MUS,2006,Income share held by second 20%,SI.DST.02ND.20,11.7
+Mauritius,MUS,2017,Income share held by third 20%,SI.DST.03RD.20,15.5
+Mauritius,MUS,2012,Income share held by third 20%,SI.DST.03RD.20,15.1
+Mauritius,MUS,2006,Income share held by third 20%,SI.DST.03RD.20,15.5
+Mauritius,MUS,2017,Income share held by fourth 20%,SI.DST.04TH.20,21.1
+Mauritius,MUS,2012,Income share held by fourth 20%,SI.DST.04TH.20,20.6
+Mauritius,MUS,2006,Income share held by fourth 20%,SI.DST.04TH.20,21.4
+Mauritius,MUS,2017,Income share held by highest 20%,SI.DST.05TH.20,44.6
+Mauritius,MUS,2012,Income share held by highest 20%,SI.DST.05TH.20,46.2
+Mauritius,MUS,2006,Income share held by highest 20%,SI.DST.05TH.20,43.8
+Mauritius,MUS,2017,Income share held by highest 10%,SI.DST.10TH.10,29.9
+Mauritius,MUS,2012,Income share held by highest 10%,SI.DST.10TH.10,31.6
+Mauritius,MUS,2006,Income share held by highest 10%,SI.DST.10TH.10,28.7
+Mauritius,MUS,2017,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,10.9
+Mauritius,MUS,2012,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,10.7
+Mauritius,MUS,2006,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,9.7
+Mauritius,MUS,2017,Income share held by lowest 10%,SI.DST.FRST.10,2.9
+Mauritius,MUS,2012,Income share held by lowest 10%,SI.DST.FRST.10,2.8
+Mauritius,MUS,2006,Income share held by lowest 10%,SI.DST.FRST.10,3.1
+Mauritius,MUS,2017,Income share held by lowest 20%,SI.DST.FRST.20,7.2
+Mauritius,MUS,2012,Income share held by lowest 20%,SI.DST.FRST.20,7
+Mauritius,MUS,2006,Income share held by lowest 20%,SI.DST.FRST.20,7.6
+Mauritius,MUS,2017,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,0.5
+Mauritius,MUS,2012,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,1.1
+Mauritius,MUS,2006,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,1.1
+Mauritius,MUS,2017,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0.1
+Mauritius,MUS,2012,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0.2
+Mauritius,MUS,2006,Poverty gap at $3.00 a day (2021 PPP) (%),SI.POV.GAPS,0.2
+Mauritius,MUS,2017,Gini index,SI.POV.GINI,36.8
+Mauritius,MUS,2012,Gini index,SI.POV.GINI,38.5
+Mauritius,MUS,2006,Gini index,SI.POV.GINI,35.7
+Mauritius,MUS,2017,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,2.3
+Mauritius,MUS,2012,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,3.4
+Mauritius,MUS,2006,Poverty headcount ratio at $4.20 a day (2021 PPP) (% of population),SI.POV.LMIC,3.8
+Mauritius,MUS,2017,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,0.5
+Mauritius,MUS,2012,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,0.8
+Mauritius,MUS,2006,Poverty gap at $4.20 a day (2021 PPP) (%),SI.POV.LMIC.GP,0.8
+Mauritius,MUS,2023,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,8.4
+Mauritius,MUS,2017,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,10.4
+Mauritius,MUS,2012,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,7.9
+Mauritius,MUS,2017,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,19.1
+Mauritius,MUS,2012,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,26.2
+Mauritius,MUS,2006,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),SI.POV.UMIC,30.8
+Mauritius,MUS,2017,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,4.8
+Mauritius,MUS,2012,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,6.9
+Mauritius,MUS,2006,Poverty gap at $8.30 a day (2021 PPP) (%),SI.POV.UMIC.GP,8.1
+Mauritius,MUS,2017,"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",SI.SPR.PC40,8.24
+Mauritius,MUS,2012,"Survey mean consumption or income per capita, bottom 40% of population (2021 PPP $ per day)",SI.SPR.PC40,7.21
+Mauritius,MUS,2017,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,2.71
+Mauritius,MUS,2017,"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",SI.SPR.PCAP,17.52
+Mauritius,MUS,2012,"Survey mean consumption or income per capita, total population (2021 PPP $ per day)",SI.SPR.PCAP,15.86
+Mauritius,MUS,2017,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,2.02

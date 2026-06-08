@@ -1,0 +1,38 @@
+[
+  {
+    "id": "relative-poverty-series",
+    "name": "Relative Poverty Time Series",
+    "format": "json",
+    "records": 6,
+    "lastUpdated": "2023-12-01",
+    "source": "Statistics Mauritius",
+    "description": "Time series used for the dashboard chart of persons in relative poverty."
+  },
+  {
+    "id": "mauritius-poverty-dataset",
+    "name": "Mauritius Poverty Dataset",
+    "format": "xlsx",
+    "records": 6,
+    "lastUpdated": "2026-03-24",
+    "source": "Statistics Mauritius",
+    "description": "Compiled poverty indicators workbook for Mauritius."
+  },
+  {
+    "id": "poverty-analysis-2023",
+    "name": "Poverty Analysis Report 2023",
+    "format": "pdf",
+    "records": 4,
+    "lastUpdated": "2026-03-24",
+    "source": "Statistics Mauritius",
+    "description": "Official poverty analysis report with recent survey findings."
+  },
+  {
+    "id": "world-bank-indicators",
+    "name": "World Bank Indicators for Mauritius",
+    "format": "csv",
+    "records": 1456,
+    "lastUpdated": "2026-03-24",
+    "source": "World Bank",
+    "description": "Indicator time series for Mauritius exported from the World Bank data portal."
+  }
+]

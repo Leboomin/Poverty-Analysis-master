@@ -1,0 +1,7 @@
+[
+  { "region": "Sub-Saharan Africa", "index": 41.1, "trend": "down", "population": "1.1B", "year": 2023 },
+  { "region": "South Asia", "index": 15.2, "trend": "down", "population": "1.9B", "year": 2023 },
+  { "region": "East Asia & Pacific", "index": 1.2, "trend": "stable", "population": "2.3B", "year": 2023 },
+  { "region": "Latin America", "index": 3.8, "trend": "up", "population": "650M", "year": 2023 },
+  { "region": "Middle East & North Africa", "index": 7.2, "trend": "up", "population": "460M", "year": 2023 }
+]

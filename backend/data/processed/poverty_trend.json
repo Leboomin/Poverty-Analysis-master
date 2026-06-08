@@ -1,0 +1,32 @@
+[
+  {
+    "period": "1996/97",
+    "percentage": 8.2,
+    "number": 92.7
+  },
+  {
+    "period": "2001/02",
+    "percentage": 7.8,
+    "number": 92.6
+  },
+  {
+    "period": "2006/07",
+    "percentage": 8.5,
+    "number": 103.4
+  },
+  {
+    "period": "2012",
+    "percentage": 9.8,
+    "number": 119.9
+  },
+  {
+    "period": "2017",
+    "percentage": 10.4,
+    "number": 127.8
+  },
+  {
+    "period": "2023",
+    "percentage": 8.4,
+    "number": 101.9
+  }
+]

@@ -1,0 +1,110 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Manrope:wght@400;500;600;700;800&display=swap');
+
+:root {
+  color-scheme: light;
+  --app-primary: #00236f;
+  --app-primary-container: #1e3a8a;
+  --app-secondary: #0058be;
+  --app-tertiary: #4b1c00;
+  --app-surface: #f7f9fb;
+  --app-surface-dim: #e2e8f0;
+  --app-surface-container-lowest: #ffffff;
+  --app-surface-container-low: #f2f4f6;
+  --app-surface-container: #ebeef1;
+  --app-surface-container-high: #e1e5e9;
+  --app-surface-container-highest: #d7dce1;
+  --app-on-surface: #191c1e;
+  --app-outline-variant: rgba(25, 28, 30, 0.15);
+  --app-error: #ba1a1a;
+  --app-shadow-ambient: 0 20px 40px -10px rgba(25, 28, 30, 0.06);
+}
+
+.dark {
+  color-scheme: dark;
+  --app-primary: #7aa2ff;
+  --app-primary-container: #4f7fff;
+  --app-secondary: #9bc1ff;
+  --app-tertiary: #d2a27d;
+  --app-surface: #09111f;
+  --app-surface-dim: #111c2e;
+  --app-surface-container-lowest: #111827;
+  --app-surface-container-low: #162133;
+  --app-surface-container: #1c2940;
+  --app-surface-container-high: #243450;
+  --app-surface-container-highest: #314260;
+  --app-on-surface: #edf2ff;
+  --app-outline-variant: rgba(237, 242, 255, 0.14);
+  --app-error: #ff9b95;
+  --app-shadow-ambient: 0 18px 38px -12px rgba(0, 0, 0, 0.5);
+}
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Manrope", sans-serif;
+
+  --color-primary: var(--app-primary);
+  --color-primary-container: var(--app-primary-container);
+  --color-secondary: var(--app-secondary);
+  --color-tertiary: var(--app-tertiary);
+  
+  --color-surface: var(--app-surface);
+  --color-surface-dim: var(--app-surface-dim);
+  --color-surface-container-lowest: var(--app-surface-container-lowest);
+  --color-surface-container-low: var(--app-surface-container-low);
+  --color-surface-container: var(--app-surface-container);
+  --color-surface-container-high: var(--app-surface-container-high);
+  --color-surface-container-highest: var(--app-surface-container-highest);
+  
+  --color-on-surface: var(--app-on-surface);
+  --color-outline-variant: var(--app-outline-variant);
+  --color-error: var(--app-error);
+
+  --shadow-ambient: var(--app-shadow-ambient);
+}
+
+@layer base {
+  html {
+    @apply bg-surface;
+  }
+
+  body {
+    @apply bg-surface text-on-surface font-sans antialiased transition-colors duration-300;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display tracking-tight;
+  }
+}
+
+@layer components {
+  .glass-panel {
+    @apply bg-surface/80 backdrop-blur-xl border-b border-outline-variant;
+  }
+
+  .leaflet-container {
+    background: var(--app-surface-container-low);
+    color: var(--app-on-surface);
+    font-family: var(--font-sans);
+  }
+
+  .dark .leaflet-container,
+  .dark .leaflet-pane,
+  .dark .leaflet-map-pane {
+    background: #162133 !important;
+  }
+
+  .leaflet-bar a,
+  .leaflet-bar a:hover {
+    background: var(--app-surface-container-lowest);
+    color: var(--app-on-surface);
+    border-bottom-color: var(--app-outline-variant);
+  }
+
+  .leaflet-tooltip {
+    background: var(--app-surface-container-lowest);
+    border: 1px solid var(--app-outline-variant);
+    color: var(--app-on-surface);
+    box-shadow: var(--app-shadow-ambient);
+  }
+}

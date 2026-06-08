@@ -1,0 +1,6 @@
+{
+  "title": "Poverty Analytics Summary",
+  "summary": "Processed analytics can be served from the backend once regression and district-level calculations are finalized.",
+  "variables": ["income", "household_size", "education", "employment"],
+  "modelScore": 0.78
+}
